@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.dixonaws.com/docs/</loc>
+    <lastmod>2017-09-03T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dixonaws.com/docs/cloud9/</loc>
+    <lastmod>2017-09-03T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.dixonaws.com/</loc>
+    <lastmod>2017-09-03T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dixonaws.com/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.dixonaws.com/docs/install/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dixonaws.com/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dixonaws.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dixonaws.com/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.dixonaws.com/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.dixonaws.com/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.dixonaws.com/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.dixonaws.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

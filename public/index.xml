@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dixonaws</title>
+    <link>https://www.dixonaws.com/</link>
+      <atom:link href="https://www.dixonaws.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>dixonaws</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://www.dixonaws.com/img/icon-192.png</url>
+      <title>dixonaws</title>
+      <link>https://www.dixonaws.com/</link>
+    </image>
+    
+    <item>
+      <title>Prepare Cloud9</title>
+      <link>https://www.dixonaws.com/docs/cloud9/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <guid>https://www.dixonaws.com/docs/cloud9/</guid>
+      <description>
+
+&lt;h2 id=&#34;get-an-aws-account-and-select-your-region&#34;&gt;Get an AWS account and select your region&lt;/h2&gt;
+
+&lt;h2 id=&#34;why-cloud9&#34;&gt;Why Cloud9?&lt;/h2&gt;
+
+&lt;p&gt;Consistency.&lt;/p&gt;
+
+&lt;h2 id=&#34;first-steps&#34;&gt;First steps&lt;/h2&gt;
+
+&lt;p&gt;Launch a new environment selecting all of the defaults.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.dixonaws.com/docs/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.dixonaws.com/docs/install/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

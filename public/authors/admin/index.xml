@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dixonaws</title>
+    <link>https://www.dixonaws.com/authors/admin/</link>
+      <atom:link href="https://www.dixonaws.com/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>dixonaws</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://www.dixonaws.com/img/icon-192.png</url>
+      <title>dixonaws</title>
+      <link>https://www.dixonaws.com/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://www.dixonaws.com/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.dixonaws.com/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a Solutions Architect at Amazon Web Services, based in München. My interests are in all things technology, but especially cloud computing,
+rapid prototyping with DevOps and CI/CD concepts, IoT, connected vehicles, and Amazon Alexa. In my off time I like to be on my bike, in search of the
+best road route or mountain bike trail.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
